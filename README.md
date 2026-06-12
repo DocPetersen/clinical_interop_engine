@@ -1,4 +1,5 @@
-Clinical Data Interoperability Engine
+## Clinical Data Interoperability Engine
+
 A modular, production-ready data pipeline designed to ingest, validate, transform, and load clinical records into a Snowflake data warehouse.
 
 Project Evolution
